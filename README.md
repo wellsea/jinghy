@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# **我的简历**
 
-You can use the [editor on GitHub](https://github.com/wellsea/jhy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## **井海洋  前端开发工程师**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###### 工作时间：[2014年6月 至今]
+> 技术栈 Vue + bootstrap + stylus
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+``` bash
 
-# Header 1
-## Header 2
-### Header 3
+**已经掌握+使用过的技术**
 
-- Bulleted
-- List
+html5、css3、
+less、sass、stylus
+JavaScript、jQuery、
+angularjs、Vue、Typescript
+小程序、微信公众号开发、混合开发
+Git
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+##线上作品
+[真盾风险控制审核系统](http://www.zhendun360.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###### PC端 [北极熊链盟](https://www.bjxcaifu.com)
+###### H5端 [北极熊链盟](https://www.bjxcaifu.com)
+###### 后台 [后台管理系统](http://home.p2p.bjxcaifu.com)
 
-### Jekyll Themes
+###### PC端 [星玛基金](http://www.xingmafund.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wellsea/jhy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###### PC端 [统谊基金](http://www.tongyifund.com)
 
-### Support or Contact
+###### PC端 [世丰集团官网](http://www.seefinegroup.com)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### PC端 [链库](http://www.liankur.com)
+###### H5端 [链库](https://m.lianku.org.cn)
+###### 后台 [后台管理系统](http://sys.liankur.com)
+
+###### PC端 [睿库](http://smartcold.org.cn)
+###### H5端 [睿库](https://m.cold360.cn)
